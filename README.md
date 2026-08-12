@@ -18,7 +18,7 @@ Python ile yapılmış profesyonel yapay zeka asistanı. Groq API'si ile güçle
 
 ### Kurulum
 ```bash
-git clone https://github.com/ENES-DESKTOP/Nova-Elite.git
+git clone https://github.com/Deskop/Nova-Elite.git
 cd Nova-Elite
 pip install -r requirements.txt
 ```
